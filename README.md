@@ -89,7 +89,7 @@ Applied analytical reasoning from Economics to backend software design and syste
 ---
 
 ### ⚡ Fun Fact
-I enjoy solving backend challenges and teaching what I learn.
+I Learn it, I implement things, then teach it.
 
 ---
 
