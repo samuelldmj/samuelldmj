@@ -10,8 +10,7 @@
 
 ### 🧩 About Me
 
-I’m a **Junior Backend Developer** and **Tech Instructor** with a foundation in **Economics** and a growing passion for building scalable web systems.  
-I enjoy creating frameworks, APIs, and automation systems that simplify everyday technical workflows.
+I’m a **Junior Backend Developer** enthusiast about building scalable web systems.  
  
 -  Exploring **Laravel**, **NestJS**, and **TypeScript** for production-level backend development.   
 -  Currently learning: **Cloud Deployment (Docker, CI/CD)**  
