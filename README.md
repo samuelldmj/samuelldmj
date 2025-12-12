@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Samuel Boluwatife</h1>
-<h3 align="center">Junior Backend Developer | Passionate about Clean Architecture in Backend System, also enthusiastic about Fintech & DevOps</h3>
+<h3 align="center">Junior Backend Developer | Passionate about Clean Architecture in Backend System, also enthusiastic about Cloud Engineering & DevOps</h3>
 
 <p align="center">
    Reach me at <a href="mailto:samuelldmj5@gmail.com">samuelldmj5@gmail.com</a> • 
