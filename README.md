@@ -66,13 +66,6 @@ Web app for managing GitHub followers and unfollowers with OAuth authentication.
 
 ---
 
-###  Education
-
-**Adekunle Ajasin University, Ondo, Nigeria**  
-_B.Sc. Economics (2017 – 2023)_  
-Applied analytical reasoning from Economics to backend software design and system optimization.
-
----
 
 ###  Let’s Connect!
 
