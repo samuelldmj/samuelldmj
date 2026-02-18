@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Samuel Boluwatife</h1>
-<h3 align="center">Junior Backend Developer | enthusiastic about Clean Architecture in Backend System, also enthusiastic about System Administration & Cloud Engineering</h3>
+<h3 align="center">Backend Developer | enthusiastic about Clean Architecture in Backend System, also enthusiastic about System Administration & Cloud Engineering</h3>
 
 <p align="center">
    Reach me at <a href="mailto:samuelldmj5@gmail.com">samuelldmj5@gmail.com</a> • 
@@ -10,7 +10,7 @@
 
 ### 🧩 About Me
 
-I’m a **Junior Backend Developer** enthusiast about building scalable web systems.  
+I’m a **Backend Developer** enthusiast about building scalable web systems.  
  
 -  Exploring **Laravel**, **NestJS**, and **TypeScript** for production-level backend development.   
 -  Currently learning: **Cloud Deployment (Docker, CI/CD)**  
