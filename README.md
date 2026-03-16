@@ -9,11 +9,11 @@
 
 ### 🧩 About Me
 
-I’m a **Backend Developer** enthusiast about building scalable web systems.  
+I am a **Backend Developer** passionate about building scalable and maintainable web systems using clean architecture principles.  
  
--  Exploring **Laravel**, **NestJS**, and **TypeScript** for production-level backend development.   
--  Currently learning: **nestjs, system design**  
--  Career goal: To transition from backend development to a career in cloud engineering, focusing on building, securing, and automating scalable cloud infrastructure to support high-performance applications 
+-  Currently working with Laravel, exploring NestJS, and TypeScript for production-grade backend development.   
+-  Actively learning NestJS and System Design to strengthen my backend engineering skills. 
+-  Career Goal: Transition into Cloud Engineering, focusing on designing, securing, and automating scalable cloud infrastructure that supports high-performance applications. 
 
 ---
 
@@ -90,4 +90,4 @@ I Learn it, I implement things, then teach it.
 
 ---
 
-⭐️ **“Learn it, Impact Others.”**
+⭐️ **“Learning is Good. Building is FUN”**
